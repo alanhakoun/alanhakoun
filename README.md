@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alan Hakoun</h1>
 <h3 align="center">Second-year computer science student at Cairo University, Future software engineer.</h3>
 
-- 📫 How to reach me **alanhakoun@gmail.com**
+- 📫 How to reach me: **alanhakoun@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/drive/folders/1C-J2DNTozmd582UolWa_lIlTQHF-7fk_?usp=sharing)
+- 📄 Know about my experiences: [my resume](https://drive.google.com/drive/folders/1C-J2DNTozmd582UolWa_lIlTQHF-7fk_?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
